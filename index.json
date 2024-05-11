@@ -151,6 +151,7 @@
       "VTX"
     ],
     "author": [
+      "ABULABS (Philipp Luening)",
       "Alex Campbell (Chief)",
       "Alex Vanover",
       "antonig",
@@ -875,6 +876,24 @@
         "switch"
       ],
       "author": "Betaflight",
+      "priority": 0
+    },
+    {
+      "fullPath": "presets/4.3/osd/ABULABS_DJI_OSD.txt",
+      "hash": "d344f6a990fa4965bf901e3a8523cd20ec6d776a366177bec134e29feab34462",
+      "title": "UAV Tech - DJI with GPS",
+      "firmware_version": [
+        "4.3",
+        "4.4",
+        "4.5"
+      ],
+      "category": "OSD",
+      "status": "COMMUNITY",
+      "keywords": [
+        "DJI",
+        "OSD"
+      ],
+      "author": "ABULABS (Philipp Luening)",
       "priority": 0
     },
     {
