@@ -1,0 +1,28 @@
+#$ TITLE: UAV Tech - DJI with GPS
+#$ FIRMWARE_VERSION: 4.3
+#$ FIRMWARE_VERSION: 4.4
+#$ FIRMWARE_VERSION: 4.5
+#$ CATEGORY: OSD
+#$ STATUS: PRIVATE
+#$ KEYWORDS: DJI, OSD
+#$ AUTHOR: ABULABS (Philipp Luening)
+
+#$ PARSER: MARKED
+
+#$ DESCRIPTION: Die fuckin besten OSD settings.
+
+#$ INCLUDE: presets/4.3/osd/defaults.txt
+
+set osd_link_quality_pos = 2172
+set osd_rssi_dbm_pos = 2205
+set osd_tim_2_pos = 3177
+set osd_flymode_pos = 2183
+set osd_g_force_pos = 2472
+set osd_craft_name_pos = 2151
+set osd_gps_speed_pos = 2376
+set osd_gps_sats_pos = 3209
+set osd_flight_dist_pos = 2440
+set osd_altitude_pos = 2407
+set osd_power_pos = 2197
+set osd_avg_cell_voltage_pos = 2164
+set osd_stat_bitmask = 278316
