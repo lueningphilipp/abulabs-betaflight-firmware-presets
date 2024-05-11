@@ -1,4 +1,4 @@
-#$ TITLE: ABULABS - BEST OSD in da house
+#$ TITLE: ABULABS DJI OSD
 #$ FIRMWARE_VERSION: 4.5
 #$ CATEGORY: OSD
 #$ STATUS: COMMUNITY
@@ -9,7 +9,7 @@
 
 #$ DESCRIPTION: Die fuckin besten OSD settings.
 
-#$ INCLUDE: presets/4.3/osd/defaults.txt
+#$ INCLUDE: presets/4.4/osd/defaults.txt
 
 set osd_link_quality_pos = 2172
 set osd_rssi_dbm_pos = 2205
